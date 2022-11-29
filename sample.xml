@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ordersResponse creationTime="2012-12-13T12:12:12">
+  <order uri="str1234">
+    <identifier>str1234000000000000000000000000000000000000000000000000000000000</identifier>
+    <organization>str</organization>
+    <legalEntity>str1234</legalEntity>
+    <branch>str1234</branch>
+    <cancelled>0</cancelled>
+    <blocked>0</blocked>
+    <number>str1234</number>
+    <gatewayShipmentNumber>str1234</gatewayShipmentNumber>
+    <masterShipmentNumber uri="str1234">str1234</masterShipmentNumber>
+    <module>airExport</module>
+    <conveyanceType>air</conveyanceType>
+    <shipmentType>backToBack</shipmentType>
+    <dgr>0</dgr>
+    <economicDate>2012-12-13</economicDate>
+    <orderDate>2012-12-13</orderDate>
+    <transportDocumentNumber>str1234</transportDocumentNumber>
+    <houseDocumentNumber>str1234</houseDocumentNumber>
+    <departure>
+      <country>st</country>
+      <unlocode>str12</unlocode>
+      <iata>str</iata>
+      <name>str1234</name>
+    </departure>
+    <destination>
+      <country>st</country>
+      <unlocode>str12</unlocode>
+      <iata>str</iata>
+      <name>str1234</name>
+    </destination>
+    <placeOfReceipt>
+      <country>st</country>
+      <unlocode>str12</unlocode>
+      <iata>str</iata>
+      <name>str1234</name>
+    </placeOfReceipt>
+    <placeOfDelivery>
+      <country>st</country>
+      <unlocode>str12</unlocode>
+      <iata>str</iata>
+      <name>str1234</name>
+    </placeOfDelivery>
+    <etd>2012-12-13T12:12:12</etd>
+    <eta>2012-12-13T12:12:12</eta>
+    <atd>2012-12-13T12:12:12</atd>
+    <ata>2012-12-13T12:12:12</ata>
+    <latestDeliveryDate>2012-12-13T12:12:12</latestDeliveryDate>
+    <requestedPickupDeliveryTime>2012-12-13T12:12:12</requestedPickupDeliveryTime>
+    <goodsAvailability>2012-12-13T12:12:12</goodsAvailability>
+    <pieces>33</pieces>
+    <grossWeight unit="g">123.45</grossWeight>
+    <chargeableWeight unit="g">123.45</chargeableWeight>
+    <volume unit="cm^3">123.45</volume>
+    <packageTypes>str1234</packageTypes>
+    <loadingMetres>123.45</loadingMetres>
+    <natureOfGoods>str1234</natureOfGoods>
+    <incoTerms>str</incoTerms>
+    <incotermPlace>str1234</incotermPlace>
+    <mainTransportFreightTerm>P</mainTransportFreightTerm>
+    <movementScope>door2dep</movementScope>
+    <clerk>str1234</clerk>
+    <salesPerson>str1234</salesPerson>
+    <dealDate>2012-12-13</dealDate>
+    <salesCommission currency="str">123.45</salesCommission>
+    <customer>
+      <partner uri="str1234">
+        <code>str1234</code>
+        <name>str1234</name>
+      </partner>
+      <address>
+        <name>str1234</name>
+        <name2>str1234</name2>
+        <name3>str1234</name3>
+        <attention>str1234</attention>
+        <street>str1234</street>
+        <street2>str1234</street2>
+        <street3>str1234</street3>
+        <city>str1234</city>
+        <zip>str1234</zip>
+        <poBoxNumber>str1234</poBoxNumber>
+        <state>str</state>
+        <country>st</country>
+      </address>
+    </customer>
+    <shipper>
+      <partner uri="str1234">
+        <code>str1234</code>
+        <name>str1234</name>
+      </partner>
+      <address>
+        <name>str1234</name>
+        <name2>str1234</name2>
+        <name3>str1234</name3>
+        <attention>str1234</attention>
+        <street>str1234</street>
+        <street2>str1234</street2>
+        <street3>str1234</street3>
+        <city>str1234</city>
+        <zip>str1234</zip>
+        <poBoxNumber>str1234</poBoxNumber>
+        <state>str</state>
+        <country>st</country>
+      </address>
+    </shipper>
+    <consignee>
+      <partner uri="str1234">
+        <code>str1234</code>
+        <name>str1234</name>
+      </partner>
+      <address>
+        <name>str1234</name>
+        <name2>str1234</name2>
+        <name3>str1234</name3>
+        <attention>str1234</attention>
+        <street>str1234</street>
+        <street2>str1234</street2>
+        <street3>str1234</street3>
+        <city>str1234</city>
+        <zip>str1234</zip>
+        <poBoxNumber>str1234</poBoxNumber>
+        <state>str</state>
+        <country>st</country>
+      </address>
+    </consignee>
+    <mainTransportSupplier uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </mainTransportSupplier>
+    <exportAgent uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </exportAgent>
+    <exportGateway uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </exportGateway>
+    <importAgent uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </importAgent>
+    <importGateway uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </importGateway>
+    <carrier uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </carrier>
+    <notify uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </notify>
+    <terminal uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </terminal>
+    <warehouse uri="str1234">
+      <code>str1234</code>
+      <name>str1234</name>
+    </warehouse>
+    <salesProduct>str1234</salesProduct>
+    <buyingProduct>str1234</buyingProduct>
+    <insuranceAmount currency="str">123.45</insuranceAmount>
+    <lineOfBusiness>str1234</lineOfBusiness>
+    <milestones>
+      <lastCompleted>
+        <description>str1234</description>
+        <actualTime>2012-12-13T12:12:12</actualTime>
+      </lastCompleted>
+      <lastCompletedWebVisible>
+        <description>str1234</description>
+        <actualTime>2012-12-13T12:12:12</actualTime>
+      </lastCompletedWebVisible>
+      <nextPlanned>
+        <description>str1234</description>
+        <actualTime>2012-12-13T12:12:12</actualTime>
+      </nextPlanned>
+      <nextPlannedWebVisible>
+        <description>str1234</description>
+        <actualTime>2012-12-13T12:12:12</actualTime>
+      </nextPlannedWebVisible>
+    </milestones>
+    <airRelatedData>
+      <flight1>str1234</flight1>
+      <flight2>str1234</flight2>
+      <flight3>str1234</flight3>
+      <flight4>str1234</flight4>
+      <securityStatus>HR</securityStatus>
+      <securityReason>str1234</securityReason>
+      <specialCustomsInformation>C</specialCustomsInformation>
+    </airRelatedData>
+    <seaRelatedData>
+      <linerAgent uri="str1234">
+        <code>str1234</code>
+        <name>str1234</name>
+      </linerAgent>
+      <vesselName>str1234</vesselName>
+      <voyage>str1234</voyage>
+      <seaLoadingType>FCL</seaLoadingType>
+      <teu>1234</teu>
+      <over18Ton>1234</over18Ton>
+      <ownContainers>0</ownContainers>
+      <containers>
+        <container>
+          <containerNumber>str1234</containerNumber>
+          <containerType>str1234</containerType>
+          <containerInfo>SEA</containerInfo>
+          <containerReferences>str1234</containerReferences>
+          <unloadingDate>2012-12-13T12:12:12</unloadingDate>
+          <terminalEntryReference>str1234</terminalEntryReference>
+          <terminalExitReference>str1234</terminalExitReference>
+          <depotReference>str1234</depotReference>
+          <lastFreeDay>2012-12-13T12:12:12</lastFreeDay>
+          <pickupAtTerminal>2012-12-13T12:12:12</pickupAtTerminal>
+          <returnEmptyBy>2012-12-13T12:12:12</returnEmptyBy>
+          <returnedEmpty>2012-12-13T12:12:12</returnedEmpty>
+          <demurrage unit="millisecond">12345</demurrage>
+          <detention unit="millisecond">12345</detention>
+          <grossWeight unit="g">123.45</grossWeight>
+          <loadedVolume unit="cm^3">123.45</loadedVolume>
+          <teu>1234</teu>
+          <over18Ton>1234</over18Ton>
+          <totalPieces>12345</totalPieces>
+        </container>
+      </containers>
+    </seaRelatedData>
+    <roadRelatedData>
+      <pickupTimeInterval>
+        <start>2012-12-13T12:12:12</start>
+        <end>2012-12-13T12:12:12</end>
+      </pickupTimeInterval>
+      <dropoffTimeInterval>
+        <start>2012-12-13T12:12:12</start>
+        <end>2012-12-13T12:12:12</end>
+      </dropoffTimeInterval>
+      <truckLicensePlate>str1234</truckLicensePlate>
+    </roadRelatedData>
+    <partnerRelatedData>
+      <partnerCode>str1234</partnerCode>
+      <ownReference>str1234</ownReference>
+      <costCenter>str1234</costCenter>
+      <jobcostingState>OPEN</jobcostingState>
+      <lastPreBilledDate>2012-12-13</lastPreBilledDate>
+      <lastBilledDate>2012-12-13</lastBilledDate>
+      <lastClosedDate>2012-12-13</lastClosedDate>
+      <expectedProfitStatus>NOT_SET</expectedProfitStatus>
+      <expectedProfitSetRemarks>str1234</expectedProfitSetRemarks>
+      <expectedProfitCheckRemarks>str1234</expectedProfitCheckRemarks>
+      <expectedProfitDeviation currency="str">123.45</expectedProfitDeviation>
+      <jobcostingSums>
+        <bookedIncome currency="str">123.45</bookedIncome>
+        <bookedCost currency="str">123.45</bookedCost>
+        <expectedProfit currency="str">123.45</expectedProfit>
+        <expectedIncome currency="str">123.45</expectedIncome>
+        <expectedCost currency="str">123.45</expectedCost>
+        <expectedFixatedCost currency="str">123.45</expectedFixatedCost>
+        <transitExpectedIncome currency="str">123.45</transitExpectedIncome>
+        <transitExpectedCost currency="str">123.45</transitExpectedCost>
+        <transitExpectedFixatedCost currency="str">123.45</transitExpectedFixatedCost>
+        <transitBookedIncome currency="str">123.45</transitBookedIncome>
+        <transitBookedCost currency="str">123.45</transitBookedCost>
+      </jobcostingSums>
+    </partnerRelatedData>
+    <references>
+      <reference>
+        <code>str1234</code>
+        <text>str1234</text>
+      </reference>
+    </references>
+    <jobcostingEntries>
+      <jobcostingEntry>
+        <owner uri="str1234">
+          <code>str1234</code>
+          <name>str1234</name>
+        </owner>
+        <type>OI</type>
+        <chargeType uri="str1234">str1234</chargeType>
+        <costCenter>str1234</costCenter>
+        <bookingDate>2012-12-13</bookingDate>
+        <economicDate>2012-12-13</economicDate>
+        <amount currency="str">123.45</amount>
+        <exchangeRate baseCurrency="str" targetCurrency="str" direct="0" unit="1234">123.45</exchangeRate>
+        <localAmount currency="str">123.45</localAmount>
+        <entryNumber>str1234</entryNumber>
+        <partner uri="str1234">
+          <code>str1234</code>
+          <name>str1234</name>
+        </partner>
+        <generalLedgerAccountNumber>str1234</generalLedgerAccountNumber>
+        <subledgerAccountNumber>str1234</subledgerAccountNumber>
+      </jobcostingEntry>
+    </jobcostingEntries>
+    <events>
+      <event>
+        <code>str1234</code>
+        <text>str1234</text>
+        <location>str1234</location>
+        <time>2012-12-13T12:12:12</time>
+        <creator>str1234</creator>
+      </event>
+    </events>
+  </order>
+</ordersResponse>
